@@ -1,0 +1,13 @@
+Tell me about your proudest professional achievement.  It can also be a personal or school project.
+
+My proudest professional achievement is a project management system.
+It is similar to Trello, or Jira, or Azure Dashboard.
+It was a startup project and I worked on this project from scratch.
+This system helps users to create tickets, assign them to others, ask for the results, etc.
+It also has its own bot that reminds ticket status to the users so that helps them to complete their tickets in a timely manner and suggest insane tickets first.
+And users can have real-time communication if needed.
+
+On this project, my role as a full-stack developer and I have used React, React Hooks, Redux, Storybook, Semantic UI, CSS, LESS for front-end development.
+For the back-end, I have built serverless applications using AWS(Amplify, API gateway, Cognito, Lambda, S3, DynamoDB, S3, Cloud Watch, EC2, etc).
+I implemented CI/CD pipelines through Azure DevOps and used Git for code versioning.
+
